@@ -46,7 +46,7 @@ h1 {
     width: 800px;
     margin: auto;
 }
-h2.about {
+h3.about {
     border-bottom: 2px solid;
     margin: auto;
     padding: 10px;
@@ -121,7 +121,7 @@ h2.about {
 }
 #contact-pgp-key {
     margin: auto;
-    width: 5500px;
+    width: 550px;
     text-align: left;
     padding-left: 50px;
 }
